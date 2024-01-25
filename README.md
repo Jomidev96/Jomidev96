@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomidev96&label=Profile%20views&color=0e75b6&style=flat" alt="jomidev96" /> </p>
 
-- 💬 Ask me about **php, react,nuxt js, next js**
+- 💬 Ask me about **php, vue js, react js,nuxt js, next js**
 
 - 📫 How to reach me **jolecodeur@gmail.com**
 
