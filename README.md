@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **php, vue js, react js,nuxt js, next js**
 
-- 📫 How to reach me **jolecodeur@gmail.com**
+- 📫 How to reach me **jolecodeur@gmail.com or modestejose96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
